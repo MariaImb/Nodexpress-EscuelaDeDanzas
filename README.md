@@ -2,7 +2,7 @@
 
 María Imbert
 
-El proyecto FINAL lo realicé en dos etapas: 
+El proyecto FINAL 'Escuela de Danzas' lo realicé en dos etapas: 
 
 1) Un primer proyecto inicial con Html, Css, javascript, donde utilice bootstrap, flexbox, y mediaquerys para trabajar el responsive design. Y realice la validacion del formulario    con javascript.
    La pagina puede visualizarse en el siguiente link:
